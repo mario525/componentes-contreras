@@ -1,0 +1,13 @@
+.sidebar {
+  width: 16rem;
+  background-color: blue;
+
+}
+
+.full-height{
+  height: 100%;
+}
+
+ .sidebar p{
+  margin: 0;
+}
